@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Cheva1294
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anggelin Triacheva 
+- 👀 I'm trying 
+- 🌱 I'm in the process of learning 
+- 💞️ i like animals 
+- 📫 How to reach me? there isn't any 
 
 <!---
 Cheva1294/Cheva1294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
